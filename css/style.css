@@ -1,0 +1,57 @@
+body{
+	background-color: #ADD8E6;
+}
+
+header{
+}
+
+
+h1{
+	color: black;
+	font-family: arial black;
+	font-size: 50px;
+	text-align: center;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding-bottom: 5px;
+	font-weight: bold;
+	padding-top: 5px;
+	background-color: #87CEEB;
+}
+
+h2{
+	font-family: arial black;	
+	text-align: center;
+	margin-right: 20%;
+	margin-left: 20%;
+	font-size: 30px;
+}
+
+
+
+p{
+	margin-left: 8%;
+	margin-right: 8%;
+	font-size: 23px;
+	font-family: arial;
+	text-align: ;
+}
+
+
+img{
+	border: Spx dashed black;
+}
+
+h4{
+	margin-left: 8%;
+	margin-right: 8%;
+	font-size: 20px;
+	font-family: arial;
+	text-align: ;
+}
+
+a: link{
+	color: #87CEEB;
+	background-color: transparent;
+	text-decoration: none;
+}
